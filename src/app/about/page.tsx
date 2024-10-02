@@ -25,7 +25,7 @@ export default function About() {
           </div>
           <div className="w-1/2 pl-6"> 
             <p className="text-lg mb-4 flex items-center">
-              We are passionate about creating exquisite jewelry that tells a story. Founded in [2024], our journey began with a vision to blend artistry and craftsmanship to bring you unique pieces that celebrate life's most precious moments.
+              We are passionate about creating exquisite jewelry that tells a story. Founded in 2024, our journey began with a vision to blend artistry and craftsmanship to bring you unique pieces that celebrate life's most precious moments.
             </p>
           </div>
         </div>
@@ -55,15 +55,15 @@ export default function About() {
             <h2 className="font-bold font-serif">Our Values</h2>
             <ul className="list-disc list-inside mb-6">
               <li className="mb-2">
-                ✨ Quality: We prioritize the finest materials and
+                 Quality: We prioritize the finest materials and
                 craftsmanship.
               </li>
               <li className="mb-2">
-                🌍 Sustainability: We are committed to ethical sourcing and
+                 Sustainability: We are committed to ethical sourcing and
                 eco-friendly practices.
               </li>
               <li className="mb-2">
-                🤝 Customer Connection: We value our customers and strive to
+                 Customer Connection: We value our customers and strive to
                 build lasting relationships.
               </li>
             </ul>
