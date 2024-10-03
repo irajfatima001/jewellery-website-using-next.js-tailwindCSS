@@ -2,10 +2,10 @@ import Image from "next/image";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import backgroundImage from "../public/images/j2.jpg";
-import necklaceImage from "../public/images/j18.jpg";
-import earringsImage from "../public/images/j2.jpg";
-import ringImage from "../public/images/j3.jpg";
-import braceletImage from "../public/images/j4.jpg";
+import necklaceImage from "../public/images/j29.jpg";
+import earringsImage from "../public/images/j28.jpg";
+import ringImage from "../public/images/j25.jpeg";
+import braceletImage from "../public/images/j26.jpg";
 export default function Home() {
   return (
     <div>
